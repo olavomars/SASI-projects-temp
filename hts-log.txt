@@ -1,0 +1,59 @@
+HTTrack3.49-2 launched on Mon, 30 Jan 2023 12:51:51 at https://sasi.com.br/security
+(winhttrack https://sasi.com.br/security -O "/Users/olavomac/template/SASI-website" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:52:38	Error: 	"Not Found" (404) at link https://sasi.com.br/apple-icon-180x180.png (from https://sasi.com.br/security)
+12:52:38	Error: 	"Not Found" (404) at link https://sasi.com.br/logo-sasi.svg (from https://sasi.com.br/security)
+12:52:53	Warning: 	Moved Permanently for sasi.com.br/robots.txt
+12:52:53	Warning: 	Redirected link is identical because of 'URL Hack' option: sasi.com.br/robots.txt and https://sasi.com.br/robots.txt
+12:52:53	Warning: 	Warning moved treated for sasi.com.br/robots.txt (real one is https://sasi.com.br/robots.txt)
+12:52:53	Warning: 	Moved Permanently for sasi.com.br/
+12:52:53	Warning: 	Redirected link is identical because of 'URL Hack' option: sasi.com.br/ and https://sasi.com.br/
+12:52:53	Warning: 	File has moved from sasi.com.br/ to https://sasi.com.br/
+12:52:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://sasi.com.br/pricing (from https://sasi.com.br/security)
+12:56:21	Error: 	"Not Found" (404) at link https://sasi.com.br/static/ (from https://sasi.com.br/client/client-06e491bf.css)
+12:56:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://sasi.com.br/pricing (from https://sasi.com.br/security)
+12:56:22	Warning: 	Retry after error 504 (Gateway Time-out) at link https://sasi.com.br/_A1A5268.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/large__A1A5268.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/small__A1A5268.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/medium__A1A5268.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/thumbnail__A1A5268.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/Screenshot_2020-07-17-16-55-40-663_com.miui.gallery.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/large_Screenshot_2020-07-17-16-55-40-663_com.miui.gallery.jpg (from https://sasi.com.br/gallery)
+12:56:22	Warning: 	Retry after error 504 (Gateway Time-out) at link https://sasi.com.br/small_Screenshot_2020-07-17-16-55-40-663_com.miui.gallery.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/medium_Screenshot_2020-07-17-16-55-40-663_com.miui.gallery.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/thumbnail_Screenshot_2020-07-17-16-55-40-663_com.miui.gallery.jpg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/IMG_1741.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/https: (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/large_IMG_1741.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/small_IMG_1741.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/medium_IMG_1741.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/thumbnail_IMG_1741.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/IMG_5706.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/large_IMG_5706.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/small_IMG_5706.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/medium_IMG_5706.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/thumbnail_IMG_5706.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/WhatsApp%20Image%202021-10-07%20at%2018.58.34%20(1).jpeg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/large_WhatsApp%20Image%202021-10-07%20at%2018.58.34%20(1).jpeg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/small_WhatsApp%20Image%202021-10-07%20at%2018.58.34%20(1).jpeg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/medium_WhatsApp%20Image%202021-10-07%20at%2018.58.34%20(1).jpeg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/thumbnail_WhatsApp%20Image%202021-10-07%20at%2018.58.34%20(1).jpeg (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/IMG_5003.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/large_IMG_5003.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/small_IMG_5003.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/medium_IMG_5003.JPG (from https://sasi.com.br/gallery)
+12:56:22	Error: 	"Not Found" (404) at link https://sasi.com.br/thumbnail_IMG_5003.JPG (from https://sasi.com.br/gallery)
+12:56:28	Warning: 	Link sasi.com.br/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:56:28	Error: 	"Internal Server Error" (500) after 2 retries at link https://sasi.com.br/pricing (from https://sasi.com.br/security)
+12:56:28	Error: 	"Not Found" (404) at link https://sasi.com.br/_A1A5268.jpg (from https://sasi.com.br/gallery)
+12:56:28	Error: 	"Not Found" (404) at link https://sasi.com.br/small_Screenshot_2020-07-17-16-55-40-663_com.miui.gallery.jpg (from https://sasi.com.br/gallery)
+12:56:28	Error: 	"Not Found" (404) at link https://sasi.com.br/gal/service-worker.js (from https://sasi.com.br/gallery/%22Isolamento-Domiciliar-FVS%22-APP)
+12:56:28	Error: 	"Not Found" (404) at link https://sasi.com.br/gal/client/shimport@2.0.4.js (from https://sasi.com.br/gallery/%22Isolamento-Domiciliar-FVS%22-APP)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 37 seconds : 95 links scanned, 51 files written (1745362 bytes overall) [1365842 bytes received at 4930 bytes/sec], 1353267 bytes transferred using HTTP compression in 70 files, ratio 23%, 11.5 requests per connection
+(37 errors, 11 warnings, 0 messages)
